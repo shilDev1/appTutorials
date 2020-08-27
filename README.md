@@ -4,7 +4,7 @@ This Project contains Examples for Facebook Login Integration in Android Platfor
 
 To Import SocialSiteLogin in your Android Studio. Run the following steps.
 
-Import as a project:
+Import as a project in Android Studio
 1. Start Android Studio and close any open Android Studio projects.
 From the Android Studio menu click File > New > Import Project
 
