@@ -1,4 +1,4 @@
-# SocialSiteLogin Tutorial to Integrate Faaceboomk App in Android 
+# SocialSiteLogin Tutorial to Integrate Faacebook Login in Android 
 
 This Project contains Examples for Facebook Login Integration in Android Platform
 
