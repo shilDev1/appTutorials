@@ -15,5 +15,8 @@ From the Android Studio menu click File > New > Import Project
 
 4. Select the import options and click Finish.
 
+5. Need to update Facebook AppId and Facebook Protocal Scheme in Strings.xml and Android Manifest file based on your 
+app's facebook information. 
+
 
 
